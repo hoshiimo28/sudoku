@@ -1,3 +1,4 @@
+#sudoku
 import sys
 from sudoku.SudokuStage import Sudoku
 from sudoku.SudokuResolver import *
